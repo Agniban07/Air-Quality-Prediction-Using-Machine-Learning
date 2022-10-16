@@ -4,7 +4,22 @@
   
   https://drive.google.com/file/d/1Xi5TaOLkKAp18e3fLuspo3GHxp_XVVi2/view?usp=sharing
 
-<h1> How to use our Model
+  <h3>Badges of team MachineLearners
+  
+    <h4>Sharmistha Das(Team Lead)
+      https://www.credly.com/users/sharmistha-das.abb55f12
+      
+    <h4>Agniban Saha
+      https://www.credly.com/users/agniban-saha.7be0cad8
+      
+    <h4>Abhirup Basak
+      https://www.credly.com/users/abhirup-basak.847184a0
+      
+    <h4>Deep Sarkar
+      https://www.credly.com/users/deep-sarkar.e1fb39c7
+  
+  
+  <h1> How to use our Model
 
 <h2> Go to the UI folder in the git repo and create a exact same folder structure in your personal system (Note: You only need whats inside the ui folder)
   
